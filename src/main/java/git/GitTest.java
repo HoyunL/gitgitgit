@@ -8,5 +8,10 @@ public class GitTest {
         System.out.println("3");
         System.out.println("4");
 
+        int i;
+        for (i = 0; i < 10; i++) {
+            System.out.print(i);
+        }
+
     }
 }
