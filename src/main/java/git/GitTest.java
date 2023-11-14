@@ -8,5 +8,9 @@ public class GitTest {
         System.out.println("3");
         System.out.println("4");
 
+        for (int i = 0; i <5; i++) {
+            System.out.println(i);
+        }
+
     }
 }
